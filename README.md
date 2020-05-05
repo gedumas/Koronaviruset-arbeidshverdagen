@@ -1,8 +1,6 @@
 # Venture-Capital-Norway
 Let's crowdsource all the $ sources for Norwegian startups (business angels, VCs, funds, etc.)
-
-# Artificial-Intelligence-Norway
-This is collective effort to showcase AI in Norway and bring a strong community together. 
+This is collective effort to showcase startup funding activities in Norway and bring a strong community together. 
 
 ## List of Angel Investors 
 | Stakehoder | Description | Website | $ median funding|
