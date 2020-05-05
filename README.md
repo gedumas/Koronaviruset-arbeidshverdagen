@@ -10,7 +10,7 @@ This is collective effort to showcase startup funding activities in Norway and b
 
 ## List of public Norwegian funding 
 | Organisation | Description / Website |
-| :--- | :--- | :--- |
+| :--- | :--- | 
 | The Nordic Council and the Nordic Council of Ministers | https://www.norden.org/en/funding-opportunities |
 
 
