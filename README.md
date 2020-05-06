@@ -6,6 +6,8 @@ This is collective effort to showcase startup funding activities in Norway and b
 | Stakehoder | Description | Website | $ median funding|
 | :--- | :--- | :--- | :--- |
 | Aksel Lund Svindal | Norwegian former World Cup alpine ski racer that founded Norselab | https://norselab.com |? |
+| Are Traasdahl |  |  |? |
+
 
 
 ## List of public Norwegian funding entities &/ projects 
