@@ -16,7 +16,7 @@ This is collective effort to showcase startup funding activities in Norway and b
 | The Nordic Council and the Nordic Council of Ministers | https://www.norden.org/en/funding-opportunities | 
 | Skagerak Maturo | https://www.skagerakmaturo.no/portfolio/ |
 | Investinor | https://www.investinor.no/portefolje/ | 
-| Investinor | http://www.proventure.no/home/portfolio | 
+| ProVenture | http://www.proventure.no/home/portfolio | 
 
 
 
