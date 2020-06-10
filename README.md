@@ -14,5 +14,7 @@ This is collective effort to showcase startup funding activities in Norway and b
 | Organisation | Description / Website |
 | :--- | :--- | 
 | The Nordic Council and the Nordic Council of Ministers | https://www.norden.org/en/funding-opportunities |
+| Skagerak Maturo | https://www.skagerakmaturo.no | 
+
 
 
