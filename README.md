@@ -11,10 +11,10 @@ This is collective effort to showcase startup funding activities in Norway and b
 
 
 ## List of public Norwegian funding entities &/ projects 
-| Organisation | Description / Website |
-| :--- | :--- | 
-| The Nordic Council and the Nordic Council of Ministers | https://www.norden.org/en/funding-opportunities |
-| Skagerak Maturo | https://www.skagerakmaturo.no | 
+| Organisation | Description / Website | (Portfolio) |
+| :--- | :--- | :--- | 
+| The Nordic Council and the Nordic Council of Ministers | https://www.norden.org/en/funding-opportunities | | 
+| Skagerak Maturo | https://www.skagerakmaturo.no | Portfolio: https://www.skagerakmaturo.no/portfolio/
 
 
 
