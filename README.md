@@ -17,6 +17,9 @@ This is collective effort to showcase startup funding activities in Norway and b
 | Skagerak Maturo | https://www.skagerakmaturo.no/portfolio/ |
 | Investinor | https://www.investinor.no/portefolje/ | 
 | ProVenture | http://www.proventure.no/home/portfolio | 
+| Ulu ventures | https://uluventures.com/ |
+
+
 
 
 
