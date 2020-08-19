@@ -10,6 +10,6 @@ Koronaviruset har endevendt arbeidshverdagen til store deler av Norges befolknin
 | DNB | 65-70 | - | | kjører hjem utstyr til de ansatte | |
 | Orkla | 50 | | | kontorstoler og pc-skjermer | |
 | Schibsted | [20](https://www.dn.no/arbeidsliv/nrk/orkla/telenor/over-halvparten-av-de-ansatte-i-landets-storste-bedrifter-har-hjemmekontor-slik-blir-koronahosten-pa-norske-arbeidsplasser/2-1-857151) | 
-| Obos |  |  |   | [750](https://www.dn.no/arbeidsliv/koronaviruset/obos/hjemmekontor/obos-gir-ansatte-som-gar-eller-sykler-til-jobb-750-kroner-i-maneden/2-1-858490) |  |
+| Obos |  |  |   | [750 kr/mnd](https://www.dn.no/arbeidsliv/koronaviruset/obos/hjemmekontor/obos-gir-ansatte-som-gar-eller-sykler-til-jobb-750-kroner-i-maneden/2-1-858490) |  |
 
 
