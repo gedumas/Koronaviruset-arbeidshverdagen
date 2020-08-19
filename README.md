@@ -3,9 +3,8 @@ Koronaviruset har endevendt arbeidshverdagen til store deler av Norges befolknin
 
 ## Tiltak @ Norge bedrifter
 | Org | % fulltid hjemme | ansatte bestemme om de jobber hjemmefra| veiledning håndbok | går/sykler til jobb støtte |  dekker utstyr på hjemmekontor | 
-| :--- | :--- | :--- |  :--- | :--- |  
-| NRK | 50-60 | - |? | |
-
+| :--- | :--- | :--- |  :--- | :--- | :--- |  
+| NRK | 50-60 | - |? | | |
 | Telenor | 50 | (/) JA |? | (/) JA | 
 | Equinor | 50 | - |? |    3000 kr | 
 | DNB | 65-70 | - |? | kjører hjem utstyr til de ansatte | |
