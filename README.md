@@ -1,7 +1,7 @@
 # Intro
-Koronaviruset har endevendt arbeidshverdagen til store deler av Norges befolkning. Hvordanen rekke av landets største bedrifterjobber med/mot korona.
+Koronaviruset har endevendt arbeidshverdagen til store deler av Norges befolkning. Hvordanen rekke av landets største bedrifterjobber med/mot det.
 
-## Tiltak @ Norge bedrifter
+## Tiltak @ Norgesbedrifter
 | Org | % fulltid hjemme | ansatte bestemme om de jobber hjemmefra| veiledning håndbok | går/sykler til jobb støtte |  dekker utstyr på hjemmekontor | 
 | :--- | :--- | :--- |  :--- | :--- | :--- |  
 | NRK | 50-60 | - |  | | |
